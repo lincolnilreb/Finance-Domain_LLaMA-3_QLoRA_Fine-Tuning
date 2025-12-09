@@ -1,0 +1,50 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "finance-alpaca",
+  "dataset_size": 38166975,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/gbharti/finance-alpaca@c88d3d5e7e2c7cab9f11a56f27bd5ba3ed68f075/Cleaned_date.json": {
+      "num_bytes": 42883678,
+      "checksum": null
+    }
+  },
+  "download_size": 42883678,
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 81050653,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 38166975,
+      "num_examples": 68912,
+      "dataset_name": "finance-alpaca"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
