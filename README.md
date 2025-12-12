@@ -1,4 +1,4 @@
-# llm-finance-qlora
+# Finance-Domain LLaMA-3 QLoRA Fine-Tuning
 
 Project scaffold for experimenting with QLoRA-based finance models.
 
